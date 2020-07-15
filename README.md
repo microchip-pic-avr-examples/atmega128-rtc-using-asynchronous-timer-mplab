@@ -27,11 +27,11 @@ This repository describes how to implement a real time counter (RTC) on AVR micr
 
 
 ## Hardware Used
-- [ATmega128](https://www.microchip.com/wwwproducts/en/ATmega128)
+- [ATmega128 TQFP](https://www.microchip.com/wwwproducts/en/ATmega128)
 - 32.768KHz crystal oscillator
 - [STK600 Starter Kit](https://www.microchip.com/developmenttools/ProductDetails/ATSTK600)
 - [Routing Card](https://www.microchip.com/developmenttools/ProductDetails/ATSTK600-RC09)
-- [Socket Card](https://www.microchip.com/developmenttools/ProductDetails/ATSTK600-SC02)
+- [Socketvard](https://www.microchip.com/developmenttools/ProductDetails/ATSTK600-SC02)
 - [ATMEL-ICE](https://www.microchip.com/DevelopmentTools/ProductDetails/ATATMEL-ICE) to be able to program the STK600 in MPLAB X IDE.
 
 ## Setup
