@@ -31,7 +31,7 @@ This repository describes how to implement a real time counter (RTC) on AVR micr
 - 32.768 kHz crystal oscillator
 - [STK600 Starter Kit](https://www.microchip.com/developmenttools/ProductDetails/ATSTK600)
 - [STK600 Routing Card](https://www.microchip.com/developmenttools/ProductDetails/ATSTK600-RC09)
-- [STK600 Socketvard](https://www.microchip.com/developmenttools/ProductDetails/ATSTK600-SC02)
+- [STK600 Socket Card](https://www.microchip.com/developmenttools/ProductDetails/ATSTK600-SC02)
 - [ATMEL-ICE](https://www.microchip.com/DevelopmentTools/ProductDetails/ATATMEL-ICE) to be able to program the STK600 in MPLAB X IDE.
 
 ## Setup
