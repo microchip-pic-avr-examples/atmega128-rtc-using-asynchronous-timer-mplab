@@ -3,7 +3,7 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>AVR134Realtimeclock</name>
+            <name>atmega128-rtc-using-asynchronous-timer-mplab</name>
             <creation-uuid>af09d128-c9b6-4660-91d7-4a8e8b319acd</creation-uuid>
             <make-project-type>0</make-project-type>
             <c-extensions>c</c-extensions>
